@@ -1,13 +1,13 @@
 ## Hi there 👋
 <!-- Encabezado con saludo animado -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hi%20I'm%20Joel%20David&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20Body!%20Im%20Cristian&reversal=false&fontAlign=50&textBg=false "
   alt="header"/>
 </div>
 
 <!-- Subtítulo animado -->
 <p align="center">
- <img src="https://media.giphy.com/media/io5n920fY8uPuICaE0/giphy.gif" alt="Dog Bread GIF" width="200" align="left">
+ <img src="https://giphy.com/embed/WsWuvZCICpsXPoYOM2%22%20width=%22480%22%20height=%22480%22%20style=%22%22%20frameBorder=%220%22%20class=%22giphy-embed%22%20allowFullScreen%3E" alt="Dog Bread GIF" width="200" align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programming..&hearts;++;Front-End+Developer,;Full-Stack+Developer,;Learning...,;Love+to+learn+new+stuffs..<3">
   </a>
