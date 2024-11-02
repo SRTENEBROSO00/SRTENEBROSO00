@@ -1,7 +1,7 @@
 # 👋 Hola, soy SRTENEBROSO00
 
 ### 📖 Sobre mí
-Soy desarrollador/a de software con experiencia en [tus áreas de especialización, por ejemplo, desarrollo web, inteligencia artificial, etc.]. Me apasiona crear soluciones eficientes y aprender nuevas tecnologías constantemente.
+Soy desarrollador de software con experiencia en [tus áreas de especialización, por ejemplo, desarrollo web, inteligencia artificial, etc.]. Me apasiona crear soluciones eficientes y aprender nuevas tecnologías constantemente.
 
 ### 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -12,21 +12,20 @@ Soy desarrollador/a de software con experiencia en [tus áreas de especializaci�
 
 ### 📂 Proyectos Destacados
 
-#### [Nombre del Proyecto](URL del proyecto)
-Descripción breve del proyecto. **Tecnologías utilizadas:** Python, Django, PostgreSQL.
+#### Ningún proyecto por el momento
+...
 
-#### [Nombre del Proyecto](URL del proyecto)
-Descripción breve del proyecto. **Tecnologías utilizadas:** JavaScript, React, Node.js.
+...
 
 ### 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SRTENEBROSO00&show_icons=true&theme=radical)
 
 ### 📫 Cómo contactarme
-- **Correo electrónico:** [tu.email@example.com](mailto:tu.email@example.com)
-- **LinkedIn:** [Tu Perfil](URL de tu perfil de LinkedIn)
-- **Twitter:** [@tu_usuario](URL de tu perfil de Twitter)
+- **Correo electrónico:** kristhian2800@gmail.com 
+- **LinkedIn:** De los debo)
+- **Instagram:** @cristian_ang
 
 ### ⚡ Datos Interesantes
 - Me encanta contribuir a proyectos de código abierto.
-- Actualmente aprendiendo [tecnología o lenguaje que estás aprendiendo].
-- Mi café favorito es [tu preferencia de café, opcional].
+- Actualmente aprendiendo React, Tailwind, JavaScript, Node.js.
+- Mi café favorito es el negro puro.
