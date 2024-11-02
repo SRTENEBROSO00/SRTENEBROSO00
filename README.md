@@ -1,13 +1,12 @@
 # 👋 Hola, soy SRTENEBROSO00
 
 ### 📖 Sobre mí
-Soy desarrollador de software con experiencia en [tus áreas de especialización, por ejemplo, desarrollo web, inteligencia artificial, etc.]. Me apasiona crear soluciones eficientes y aprender nuevas tecnologías constantemente.
+Soy estudiante de desarrollo de Software. Me apasiona estudiar y aprender sobre como crear soluciones eficientes y aprender nuevas tecnologías constantemente.
 
 ### 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ### 📂 Proyectos Destacados
@@ -22,7 +21,7 @@ Soy desarrollador de software con experiencia en [tus áreas de especialización
 
 ### 📫 Cómo contactarme
 - **Correo electrónico:** kristhian2800@gmail.com 
-- **LinkedIn:** De los debo)
+- **LinkedIn:** De los debo
 - **Instagram:** @cristian_ang
 
 ### ⚡ Datos Interesantes
