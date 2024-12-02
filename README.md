@@ -26,5 +26,5 @@ Soy estudiante de desarrollo de Software. Me apasiona estudiar y aprender sobre 
 
 ### ⚡ Datos Interesantes
 - Me encanta contribuir a proyectos de código abierto.
-- Actualmente aprendiendo React, Tailwind, JavaScript, Node.js.
-- Mi café favorito es el negro puro.
+- Actualmente aprendiendo React, Tailwind, JavaScript, Node.js, Next
+- Mi café favorito es el tinto.
