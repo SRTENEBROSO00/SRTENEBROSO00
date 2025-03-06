@@ -1,4 +1,4 @@
-# 👋 Hola, soy SRTENEBROSO00
+# 👋 Hola, soy Cristian Castro Angeles
 
 ### 📖 Sobre mí
 Soy estudiante de desarrollo de Software. Me apasiona estudiar y aprender sobre como crear soluciones eficientes y aprender nuevas tecnologías constantemente.
