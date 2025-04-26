@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristian Castro Angeles</h1>
+<h1 align="center">Hi 👋, I'm Cristian Castro Ángeles</h1>
 <h3 align="center">Passionate Software Development Student and Future Fullstack Developer 🚀</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
