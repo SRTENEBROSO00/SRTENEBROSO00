@@ -1,30 +1,46 @@
-# 👋 Hola, soy Cristian Castro Angeles
+<h1 align="center">Hi 👋, I'm Cristian Castro Angeles</h1>
+<h3 align="center">Passionate Software Development Student and Future Fullstack Developer 🚀</h3>
 
-### 📖 Sobre mí
-Soy estudiante de desarrollo de Software. Me apasiona estudiar y aprender sobre como crear soluciones eficientes y aprender nuevas tecnologías constantemente.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🛠️ Tecnologías y Herramientas
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+---
 
-### 📂 Proyectos Destacados
+### 🌟 About Me
+- 🎓 I'm currently a **Software Development Student**.
+- 🔥 I love studying and learning how to create **efficient solutions** and discover **new technologies**.
+- 📚 Currently learning: **React**, **TailwindCSS**, **JavaScript**, **Node.js**, **Next.js**.
+- ☕ Fun fact: **Black coffee** is my fuel for coding!
 
-#### Ningún proyecto por el momento
-...
+---
 
-...
+### 🛠️ Technologies and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
 
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SRTENEBROSO00&show_icons=true&theme=radical)
+---
 
-### 📫 Cómo contactarme
-- **Correo electrónico:** kristhian2800@gmail.com 
-- **LinkedIn:** De los debo
-- **Instagram:** @cristian_ang
+### 🚀 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRTENEBROSO00&show_icons=true&theme=radical" alt="SRTENEBROSO00's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRTENEBROSO00&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
-### ⚡ Datos Interesantes
-- Me encanta contribuir a proyectos de código abierto.
-- Actualmente aprendiendo React, Tailwind, JavaScript, Node.js, Next
-- Mi café favorito es el tinto.
+---
+
+### 📫 How to reach me
+- 📧 Email: [kristhian2600@gmail.com](mailto:kristhian2600@gmail.com)
+- 📷 Instagram: [@cristian_ang](https://www.instagram.com/cristian_ang)
+- 💼 LinkedIn: *Coming soon!*
+
+---
+
+### ⚡ Interesting Facts
+- 🤝 I love contributing to **open-source** projects.
+- 🧠 Constantly learning and improving my skills.
+- 🌍 Open to **collaborations** and **new opportunities**.
